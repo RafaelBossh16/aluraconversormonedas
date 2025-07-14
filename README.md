@@ -44,7 +44,7 @@ A continuación exploramos cada opción del menú:
 - Luego de mostrar tu conversión, te preguntará si deseas realizar otra conversión o regresar a menu inicial.
 
 <img width="1796" height="381" alt="imagenSalida" src="https://github.com/user-attachments/assets/ff39f6f8-5bb1-4e81-bafb-bbe7d2257915"/>
-
+<br>
 <img width="1873" height="595" alt="imagenSalida2" src="https://github.com/user-attachments/assets/9af7f4c8-465a-4c6e-a1a1-14ebf2c33f0d" />
 
 
@@ -65,7 +65,12 @@ Finalmente, te solicita que ingreses un carácter cualquiera para regresar al me
 <img width="1856" height="630" alt="imagenSalida3" src="https://github.com/user-attachments/assets/3a296950-547c-4639-9a81-102a5bd574b6" />
 
 ### Generador de archivo.txt
+Al momento de colocar la tercera de opción de guardar e imprimir. Nos dará como resultado el archivo json en un archivo txt, lo cual aparecerán todas los registros correspondientes según a las conversiones que hayamos realizado durante la ejecución del programa.
 
+<img width="1862" height="613" alt="imagenSalida4" src="https://github.com/user-attachments/assets/d1546900-56e5-482f-8f13-f2a646117c56" />
+<br>
+<img width="1918" height="398" alt="imagenSalida5" src="https://github.com/user-attachments/assets/d552761d-215b-47f0-a5d3-6ac67271b02c" />
 
+Con esta última funcionalidad mencionada, estaría completo la realización del challenge del Conversor de Monedas. Muchas gracias y pruébalo con mucho gusto!
 
 
