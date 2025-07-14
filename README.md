@@ -40,15 +40,13 @@ A continuación exploramos cada opción del menú:
 
 ### Hacer conversion de moneda
 - Tienes que ingresar el monto que quieres convertir a dicho cambio respectivo según a las opciones disponibles.
+- Una vez ingresas el monto te muestra la conversión con todos los datos que ingresaste.
+- Luego de mostrar tu conversión, te preguntará si deseas realizar otra conversión o regresar a menu inicial.
 
 <img width="1796" height="381" alt="imagenSalida" src="https://github.com/user-attachments/assets/ff39f6f8-5bb1-4e81-bafb-bbe7d2257915"/>
 
-- Una vez ingresas el monto te muestra la conversión con todos los datos que ingresaste.
-![image](https://github.com/PatoProgramador/Conversor-de-monedas/assets/72218702/72b023c6-cdc6-4e58-9286-0f4041629ae5)
+<img width="1873" height="595" alt="imagenSalida2" src="https://github.com/user-attachments/assets/9af7f4c8-465a-4c6e-a1a1-14ebf2c33f0d" />
 
-- Luego de mostrar tu conversión, te preguntará si deseas realizar otra conversión o regresar a menu inicial.
-
-![image](https://github.com/PatoProgramador/Conversor-de-monedas/assets/72218702/708bee98-36f8-4fa4-a958-c30990d496c7)
 
 ### Ver tu historial de conversion de monedas
 
@@ -62,8 +60,12 @@ Al seleccionar esta opción te saldrá tu historial de todas las conversiones de
 6: Ordenar por Nombre Moneda Destino;
 x: Volver atrás;
 
-Finalmente, te solicita que ingreses un caracter cualquiera para regresar al menu:
+Finalmente, te solicita que ingreses un carácter cualquiera para regresar al menú:
 
-![image](https://github.com/PatoProgramador/Conversor-de-monedas/assets/72218702/03a30c15-99af-49be-a942-e76a90a44a2f)
+<img width="1856" height="630" alt="imagenSalida3" src="https://github.com/user-attachments/assets/3a296950-547c-4639-9a81-102a5bd574b6" />
+
+### Generador de archivo.txt
+
+
 
 
