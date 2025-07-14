@@ -1,4 +1,4 @@
-<img  alt="exchangeimg" width="200px" height="200px" align="right" src="https://images.vexels.com/media/users/3/146882/isolated/preview/7525685ed67fa782b7d851273e1264c7-cambio-de-divisas.png" >
+<img  alt="exchangeimg" width="200px" height="200px" align="right" src="https://static.vecteezy.com/system/resources/previews/015/265/011/non_2x/currency-conversion-icon-outline-style-vector.jpg" >
 
 ## Conversor de monedas
 
@@ -41,7 +41,7 @@ A continuación exploramos cada opción del menú:
 ### Hacer conversion de moneda
 - Tienes que ingresar el monto que quieres convertir a dicho cambio respectivo según a las opciones disponibles.
 
-![image](https://github.com/PatoProgramador/Conversor-de-monedas/assets/72218702/6112c34d-d3d7-4b4e-9b06-1aebc556041a)
+<img width="1796" height="381" alt="imagenSalida" src="https://github.com/user-attachments/assets/ff39f6f8-5bb1-4e81-bafb-bbe7d2257915"/>
 
 - Una vez ingresas el monto te muestra la conversión con todos los datos que ingresaste.
 ![image](https://github.com/PatoProgramador/Conversor-de-monedas/assets/72218702/72b023c6-cdc6-4e58-9286-0f4041629ae5)
