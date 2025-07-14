@@ -28,13 +28,13 @@ La app funciona con un listado de monedas para facilitar la interacción y ampli
 
 Inicialmente se ejecuta un listado por defecto:
 
-  1: Pesos Argentinos ARS -> Dólares USD;
-  2: Dólares USD -> Pesos Argentinos ARS;
-  3: Reales Brasileños BRL -> Dólares USD;
-  4: Dólares USD -> Reales Brasileños BRL;
-  5: Pesos Colombianos COP -> Dólares USD;
-  6: Dólares USD -> Pesos Colombianos COP;
-  x: atrás;
+      1. Pesos Argentinos ARS -> Dólares USD
+      2. Dólares USD -> Pesos Argentinos ARS
+      3. Reales Brasileños BRL -> Dólares USD
+      4. Dólares USD -> Reales Brasileños BRL
+      5. Pesos Colombianos COP -> Dólares USD
+      6. Dólares USD -> Pesos Colombianos COP
+      7. x -> atrás
 
 A continuación exploramos cada opción del menú:
 
@@ -52,13 +52,13 @@ A continuación exploramos cada opción del menú:
 
 Al seleccionar esta opción te saldrá tu historial de todas las conversiones de moneda que haz hecho. Además, tu puedes organizar el registro según a tu preferencia según a las siguientes opciones:
 
-1: Ordenar por Fecha más próxima;
-2: Ordenar por Fecha más antigua;
-3: Ordenar por Monto Moneda Origen;
-4: Ordenar por Monto Moneda Destino;
-5: Ordenar por Nombre Moneda Origen;
-6: Ordenar por Nombre Moneda Destino;
-x: Volver atrás;
+    1. Ordenar por Fecha más próxima
+    2. Ordenar por Fecha más antigua
+    3. Ordenar por Monto Moneda Origen
+    4. Ordenar por Monto Moneda Destino
+    5. Ordenar por Nombre Moneda Origen
+    6. Ordenar por Nombre Moneda Destino
+    7. x => Volver atrás
 
 Finalmente, te solicita que ingreses un carácter cualquiera para regresar al menú:
 
